@@ -29,6 +29,7 @@ ScrollMe is an open-source, feature-rich eCommerce platform that provides a mode
 - [ ] **Checkout Process**: Easy and secure checkout experience.
 - [ ] **Order History**: View past orders and order details.
 - [ ] **Product Reviews and Ratings**: Users can review and rate products.
+- [x] **Wishlist**: Save favorite items for later purchase.
 - [x] **Wishlist**: Save favourite items for later purchase.
 - [ ] **Payment Gateway Integration**: Add integration with payment providers like Stripe or PayPal.
 - [x] **Responsive Design**: Optimized for all devices (mobile, tablet, and desktop).
